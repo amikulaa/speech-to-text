@@ -13,7 +13,7 @@ speech-to-text
 ```
 
 ## 🎬 Demo
-https://github.com/amikulaa/speech-to-text/assets/142363956/488bf50b-18b3-4a2c-948f-4e96829e6991
+https://github.com/amikulaa/speech-to-text/assets/142363956/eb7b1077-d7c9-4efd-9630-fe2d13bf9c9d
 
 ## Features
 
